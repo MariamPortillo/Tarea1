@@ -1,0 +1,111 @@
+#principal
+{
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+    margin: 20px;
+}
+#sombrero
+{
+    width: 150px;
+    height:80px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+#somb
+{
+  width: 300px;
+  height: 50px;
+  background-color: blue;
+  border-radius: 10px;
+  margin: auto;
+  position: relative;
+  top: 100px;
+}
+#cabeza
+{
+    width: 300px;
+    height: 300px;
+    background-color: burlywood;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+
+}
+#ojo1
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    right: 50px;
+}
+#ojo2
+{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+#iris
+{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    
+}
+#iris2
+{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+}
+#nariz
+{
+    width: 50px;
+    height: 50px;
+    background-color:red;
+    border-radius: 150px;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+#boca
+{
+    width: 180px;
+    height: 80px;
+    background-color:white;
+    border-radius: 40px;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+#boca-2
+{
+    width: 100px;
+    height: 50px;
+    background-color:pink;
+    border-radius: 50px;
+    margin: auto;
+    position: relative;
+    top: 15px;
+}
